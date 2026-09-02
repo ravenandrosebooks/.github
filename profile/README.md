@@ -24,7 +24,7 @@ That means:
 
 Raven and Rose Books is the heart of the organization: a bookselling experience built around discovery and thoughtful curation. Our shop offers individual titles, themed collections, and curated book boxes designed to connect readers with a mood, an interest, or a new corner of the literary world.
 
-- Visit [ravenandrose.com](https://ravenandrose.com/)
+- Visit [ravenandrosebooks.com](https://ravenandrosebooks.com/)
 - Shop [Raven and Rose Books on Etsy](https://www.etsy.com/shop/RavenandRoseBooks)
 
 ### ReaderGenome
@@ -88,7 +88,7 @@ Across our work, we aim to build with:
 
 ## Resources
 
-- [Raven and Rose Books](https://ravenandrose.com/) — organization, books, and updates
+- [Raven and Rose Books](https://ravenandrosebooks.com/) — organization, books, and updates
 - [Raven and Rose Books on Etsy](https://www.etsy.com/shop/RavenandRoseBooks) — books, themed collections, and curated book boxes
 - [ReaderGenome](https://readergenome.com/) — product information, release news, and the future home of API documentation and policies
 - [ReaderGenome repository](https://github.com/ravenandrosebooks/readergenome) — source and project documentation, subject to repository visibility
